@@ -3,7 +3,7 @@ Go script that is used to manage terraform actions
 
 ## Notes
 
-- Allows to the following:
+- Allows to do the following:
 
     - pull tfvars
     - upload tfvars
